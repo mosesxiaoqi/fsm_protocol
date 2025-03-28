@@ -1,7 +1,3 @@
-//
-// Created by 王鹤 on 2021/4/14.
-//
-
 #include "stdlib.h"
 #include "string.h"
 #include "simple_fsm.h"

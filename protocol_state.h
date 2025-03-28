@@ -1,7 +1,3 @@
-//
-// Created by 王鹤 on 2021/5/31.
-//
-
 #ifndef _PROTOCOL_STATE_H_
 #define _PROTOCOL_STATE_H_
 

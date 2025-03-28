@@ -1,7 +1,3 @@
-//
-// Created by 王鹤 on 2021/5/31.
-//
-
 #include "string.h"
 #include "simple_fsm.h"
 #include "protocol_app.h"

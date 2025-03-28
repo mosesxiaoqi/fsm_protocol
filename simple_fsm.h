@@ -1,7 +1,3 @@
-//
-// Created by 王鹤 on 2021/4/14.
-//
-
 #ifndef _SIMPLE_FSM_H_
 #define _SIMPLE_FSM_H_
 
